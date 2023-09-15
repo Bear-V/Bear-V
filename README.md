@@ -17,8 +17,6 @@
 
 🌱 I’m currently learning Rust
 
-🤔 I’m interested in Machine Learning
-
 
 <p align="center">
   <a href="https://github.com/Bear-V" align="center">
